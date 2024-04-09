@@ -1,0 +1,21 @@
+{
+  "prefs": {
+    "ChangelogVersions": "{\"v0.2024.02.27.08.01.stable_03\":true}",
+    "HasAutoOpenedWelcomeFolder": "true",
+    "FontName": "\"JetBrains Mono\"",
+    "AIAssistantRequestLimitInfo": "{\"limit\":100,\"num_requests_used_since_refresh\":0,\"next_refresh_time\":\"2024-04-06T09:02:46.615060316Z\"}",
+    "Shortcuts": "true",
+    "NotebookFontSize": "14.0",
+    "SystemTheme": "false",
+    "MatchNotebookToMonospaceFontSize": "true",
+    "InputMode": "\"PinnedToTop\"",
+    "FontSize": "13.0",
+    "WelcomeTipsFeaturesUsed": "[{\"Action\":\"ThemePicker\"},{\"Hint\":\"CreateBlock\"}]",
+    "Spacing": "\"Compact\"",
+    "ReceivedReferralTheme": "\"Inactive\"",
+    "OverrideOpacity": "100",
+    "ExperimentId": "40b24444-134e-4ee5-a6b2-e10ca4edfedb",
+    "AutosuggestionAcceptedCount": "2",
+    "Theme": "\"DarkCity\""
+  }
+}
